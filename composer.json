@@ -1,0 +1,15 @@
+{
+  "name": "tatsuyaueda/asterisk-monitor-eventhandler",
+  "description": "Asterisk Monitor EventHandler",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tatsuya Ueda",
+      "email": "ml@tatsuya.info"
+    }
+  ],
+  "require": {
+    "marcelog/pami": "^2.0"
+  }
+}
